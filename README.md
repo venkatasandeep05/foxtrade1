@@ -27,6 +27,3 @@ fronted is running on port 3000
 
 
 
-Members :
-
-1) Ankit Raibole (backend)
